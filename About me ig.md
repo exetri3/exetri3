@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @exetri3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning LUA (prob)
+- 👀 I’m interested in: Roblox scripting, SAMP Scripting and Roblox building.
+- 🌱 I’m currently learning LUA
 - 📫 How to reach me: Discord @exetri3, Telegram @exetri3
 - 😄 Pronouns: wtf is this?
-- ⚡ Fun fact: idk lua
+- ⚡ Fun fact: i need help, someone please
