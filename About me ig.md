@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @exetri3
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning LUA (prob)
+- 📫 How to reach me: Discord @exetri3, Telegram @exetri3
+- 😄 Pronouns: wtf is this?
+- ⚡ Fun fact: idk lua
